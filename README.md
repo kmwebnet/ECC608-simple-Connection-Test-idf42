@@ -1,8 +1,9 @@
 # ECC608-Simple-Connection-Test-idf42
 
-This communicates ATECC608A secure chip from ESP32 and get infos (serial number, revision number, and current config data),
-it helps to make sure the connection between them.
-This app supported by espressif32@3.1.0(esp-idf4.2) and cryptoauthlib@3.3.0 on Platformio.  
+This communicates ATECC608A secure chip from ESP32 and get infos (serial number, revision number, and current config data),  
+it helps to make sure the connection between them.  
+This is new version of [ECC608-Simple-Connection-Test](https://github.com/kmwebnet/ECC608-Simple-Connection-Test) .   
+This app supported by espressif32@3.1.0(esp-idf4.2) and cryptoauthlib@3.3.0 on Platformio.   
 
 # Requirements
 
